@@ -1,4 +1,7 @@
-﻿class TicTacToe
+﻿// Tic-Tac-Toe Game
+// Michael Oludoyi
+
+class TicTacToe
 {
     static void Main(string[] args)
     {
